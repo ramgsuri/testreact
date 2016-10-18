@@ -1,0 +1,29 @@
+{
+  "name": "testsample",
+  "version": "1.0.0",
+  "description": "Test Sample React Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramgsuri/testreact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ram G Suri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramgsuri/testreact/issues"
+  },
+  "homepage": "https://github.com/ramgsuri/testreact#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
